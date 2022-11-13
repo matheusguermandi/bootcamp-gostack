@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Nike Air Max 97",
+      "image_url": "https://images.lojanike.com.br/500x500/produto/194446_1812692_20191114123610.jpg",
+      "price": 639.99
+    },
+    {
+      "id": "2",
+      "title": "Nike Air Max 95",
+      "image_url": "https://images.lojanike.com.br/1024x1024/produto/219629_2039521_20200407153406.jpg",
+      "price": 799.99
+    },
+    {
+      "id": "4",
+      "title": "Nike Air Max 90",
+      "image_url": "https://images.lojanike.com.br/500x500/produto/217926_1978763_20200218152814.jpg",
+      "price": 399.99
+    },
+    {
+      "id": "4",
+      "title": "Nike Air Span",
+      "image_url": "https://images.lojanike.com.br/1024x1024/produto/236610_2090023_20200429114123.jpg",
+      "price": 499.99
+    },
+    {
+      "id": "5",
+      "title": "Nike Renew Arena",
+      "image_url": "https://images.lojanike.com.br/500x500/produto/236914_2090184_20200429114124.jpg",
+      "price": 349.99
+    },
+    {
+      "id": "6",
+      "title": "Nike Air Vapormax 360",
+      "image_url": "https://images.lojanike.com.br/1024x1024/produto/193443_1987404_20200221120227.jpg",
+      "price": 809.99
+    }
+  ]
+}
